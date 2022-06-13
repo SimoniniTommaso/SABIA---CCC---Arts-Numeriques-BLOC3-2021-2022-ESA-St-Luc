@@ -2,9 +2,13 @@
 
 ## SABIA, created by Adil El Hassouni, Léandra Di Giugno and Tommaso Simonini
 
-### Thanks to [Oogre](https://github.com/oogre) for the various tools and software he provided us to make this happen 
-most notably: [Easy_OSC](https://github.com/oogre/easy_osc) 
-    
+### Thanks to [_Oogre_](https://github.com/oogre) for the various tools and software he provided us to make this happen 
+### most notably: [_Easy_OSC_](https://github.com/oogre/easy_osc) 
+
+### Special thanks to _Adèle Grémaud_ for manufacturing our costume.
+
+# DESCRIPTION:
+
 Sabia is a performative audio-visual experience played in duo based on the exchange of knowledge. 
 One observes the universe retracing the evolution between primitive and technological as the other, executes the orders by reproducing ritual gestures.
 
